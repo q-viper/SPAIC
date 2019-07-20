@@ -16,14 +16,14 @@ I was having my board exams lately so it was harder for me to collect everything
  </tr>
  <tr>
   <td> 21</td>
-  <td> DCR Using FFN</td>
-  <td><td>
+  <td> DCR Numerals Using FFN</td>
+  <td></td>
   <td>Accuracy very low. Model needs edit.</td>
  </tr>
  <tr>
   <td> 22</td>
-  <td>DCR Using CNN</td>
-  <td><td>
+  <td>DCR Numerals Using CNN</td>
+  <td></td>
   <td> Miracle happened. Accuracy 90+</td>
   <tr>
    <td>23</td>
