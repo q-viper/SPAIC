@@ -41,7 +41,7 @@ I was having my board exams lately so it was harder for me to collect everything
  
  <tr>
   <td>25</td>
-  <td>Trained DCR all characters using Pytorch.</td>
+  <td>Trained DCR all characters using Pytorch. Plus I learned about deep dream.</td>
   <td></td>
   <td>Used the final function log_softmax and everything solved.</td>
  </tr>
