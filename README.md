@@ -48,7 +48,7 @@ I was having my board exams lately so it was harder for me to collect everything
  <tr>
   <td>26</td>
   <td>Did lots of task. Downloaded, processed and trained a CNN for smog detection.</td>
- <td><a href = " https://sites.google.com/view/reside-dehaze-datasets">Datasets</a> <a href ="https://github.com/q-viper/SmogDetection"> Notebook</a> </td>
+ <td><a href = "https://sites.google.com/view/reside-dehaze-datasets">Datasets</a> <a href ="https://github.com/q-viper/SmogDetection"> Notebook</a> </td>
   <td>It was tough day and all training done on local computer. Took whole day. Model have accuracy 89% upto 10 epochs.</td>
  </tr>
  <tr>
