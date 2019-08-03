@@ -52,6 +52,47 @@ I was having my board exams lately so it was harder for me to collect everything
   <td>It was tough day and all training done on local computer. Took whole day. Model have accuracy 89% upto 10 epochs.</td>
  </tr>
  <tr>
+  <td>27</td>
+  <td>Trained Smog Detection datasets on Colab</td>
+  <td><a href ="https://github.com/q-viper/SmogDetection"> Notebook</a></td>
+  <td>Used custom VGG</td>
+ </tr>
+ <tr>
+  <td>28 - 32</td>
+  <td>Finished Course</td>
+  <td>-</td>
+  <td>Need to rewatch</td>
+ </tr>
+ 
+ <tr>
+  <td>33</td>
+  <td>Basics of Flask and RESTful API</td>
+  <td>-</td>
+  <td>To deploy ML model into web app</td>
+ </tr>
+ 
+ <tr>
+  <td>34</td>
+  <td>Virtual Meetups and little more Flask</td>
+  <td>-</td>
+  <td>Flask is tough for me.</td>
+ </tr>
+ 
+ <tr>
+  <td>35</td>
+  <td>#flask, #django and #MachineLearning #engineer pathway on #AWS student, enrolled in #AWSDeepRacer, learned AWS DeepLens, collected datset, papers for people counting problem</td>
+  <td>-</td>
+  <td>AWS is amazing but without mastercard little i could do</td>
+ </tr>
+ 
+ <tr>
+  <td>36</td>
+  <td>Worked on project 'Crowd Density Detection', Wrote lines of codes to just see memory error but at the end of day trained a simple #regression model (overfitted)</td>
+  <td>-</td>
+  <td>Crowd density detection is harder than smog Detection</td>
+ </tr>
+  
+ <tr>
   <td></td>
   <td></td>
   <td></td>
