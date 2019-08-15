@@ -93,6 +93,98 @@ I was having my board exams lately so it was harder for me to collect everything
  </tr>
   
  <tr>
+  <td>37</td>
+  <td>* Did little search about crowd density estimation
+ * Improved little accuracy of Smog Detection</td>
+  <td>https://t.co/mwc9aP1K7M?amp=1</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>38</td>
+  <td>Studied about Artistic Neural Style Transfer and coded it</td>
+  <td>* https://t.co/duiEspN3xk?amp=1
+ * https://t.co/auwso3IeT6?amp=1</td>
+  <td>If i am ever going to make a movie, then i will use Neural Networks for scene creation. <img src = 'https://pbs.twimg.com/media/EBS0JcMU8AArM2V?format=jpg&name=small'> </td>
+ </tr>
+ <tr>
+  <td>39</td>
+  <td>* Math behind Gaussian Kernel Mapping(for Crowd Density Estimation)
+* Learned about various object tracking(including YOLO) history from Siraj Raval's Video(best)</td>
+  <td></td>
+  <td>Siraj's Videos are coolest one.</td>
+ </tr>
+  <tr>
+  <td>40</td>
+  <td>* Learned even more about YOLO
+* Worked on custom Smog/Clear Dataset for Smog Detection</td>
+  <td>-</td>
+  <td>Dataset was named Smog4000 by group members.</td>
+ </tr>
+  <tr>
+  <td>41</td>
+  <td>* Studied object detection with YOLO and opencv
+* Learned about centroid tracking algorithm and several more in #opencv</td>
+  <td>-</td>
+  <td>Object tracking is awesome.</td>
+ </tr>
+  <tr>
+  <td>42-43</td>
+  <td>* A long streak of debugging the code
+ * Learning real world object tracking(w speed) using YOLO and Centroid tracking algorithm</td>
+  <td>-</td>
+  <td>-</td>
+ </tr>
+  <tr>
+  <td>44</td>
+  <td>* Improved a segmentation code for devanagari character recognition using #numpy
+* Learning real world object tracking(w speed) using YOLO and Centroid tracking algorithm</td>
+  <td></td>
+  <td>Numpy is gold.</td>
+ </tr>
+  <tr>
+  <td>45-46</td>
+  <td>* Busy days due to many study projects on going
+* Learning real world object tracking(w speed) using YOLO and Centroid tracking algorithm
+* Writing google doc for Crowd Density Estimation</td>
+  <td>-</td>
+  <td></td>
+ </tr>
+  <tr>
+  <td>47</td>
+  <td>* Crowd density article completed.
+ * Starting RASA</td>
+  <td>-</td>
+  <td></td>
+ </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ 
+ 
+ 
+ 
+ <tr>
   <td></td>
   <td></td>
   <td></td>
